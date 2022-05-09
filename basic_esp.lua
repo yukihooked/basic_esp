@@ -520,6 +520,7 @@ do -- Registers
             end
         end)
 
+        table.insert(framework.entities.humanoids, registry)
         return registry
     end
 
