@@ -1,5 +1,6 @@
 -- MADE BY YUKINO (@ifeq on Discord / YUKINO#7070)
 -- Macsploit needs documentation
+-- UPDATED FOR MACSPLOIT
 
 local UserInputService = game:GetService("UserInputService") 
 local RunService = game:GetService("RunService") 
